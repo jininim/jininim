@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Android%20developer&desc=LEE%20JIN&fontSize=90&&descSize=30&fontAlignY=20&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0055D4&height=300&text=Android%20developer&desc=LEE%20JIN&fontSize=90&descSize=30&fontAlignY=20&descAlign=90&fontColor=ffffff)
 
 ## 📚 기술 스택
 
