@@ -11,7 +11,8 @@
 - 프레임워크: Android SDK, Jetpack (Room, LiveData, ViewModel 등)
 - 네트워크: Retrofit
 - 데이터베이스: SQLite, Room
-- 
+
+
 ## 📌 프로젝트
 
 깃허브에서는 다음과 같은 프로젝트를 공유하고 있습니다:
