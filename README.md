@@ -26,6 +26,7 @@
 - 데이터베이스: SQLite, Room
 
 
+
 ## 📌 프로젝트
 
 깃허브에서는 다음과 같은 프로젝트를 공유하고 있습니다:
@@ -41,4 +42,8 @@
 
 - 이메일: haksunlee456@naver.com
 - 블로그: https://jininim.tistory.com/
+
+
+## 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jininim&show_icons=true&theme=radical)
 
