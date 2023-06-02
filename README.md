@@ -44,6 +44,4 @@
 - 블로그: https://jininim.tistory.com/
 
 
-## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jininim&show_icons=true&theme=radical)
 
