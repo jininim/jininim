@@ -15,7 +15,7 @@
 </p>
 
 - 언어: Kotlin,Java
-- 프레임워크: Android SDK, Jetpack (Room, LiveData, ViewModel 등)
+- 프레임워크: Android Studio
 - 네트워크: Retrofit
 - 데이터베이스: SQLite, Room
 
