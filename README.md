@@ -1,10 +1,4 @@
-# HELLO WORLD! 👋
-
-반갑습니다! 제 깃허브 프로필을 방문해주셔서 감사합니다.
-<br/>
-안드로이드/Kotlin에 대해 공부하고 개발하는 안드로이드 개발자 이진 입니다 !
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Android%20developer&desc=LEE%20JIN&fontSize=90&&descSize=30&fontAlignY=20&descAlign=90)
 
 ## 📚 기술 스택
 
@@ -18,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Retrofit-green" alt="Retrofit" />
   <img src="https://img.shields.io/badge/-SQLite-lightgray" alt="SQLite" />
   <img src="https://img.shields.io/badge/-Room-yellow" alt="Room" />
+  
 </p>
 
 - 언어: Java, Kotlin
