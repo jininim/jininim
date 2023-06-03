@@ -18,18 +18,27 @@
 
 ## 📌 Projects
 
-- [KotlinEx](https://github.com/jininim/KotlinEx): 안드로이드 개발자 문서 학습 정리
-- [Algorithm_Python](https://github.com/jininim/Algorithm_Python): 파이썬 알고리즘 문제 풀이
-- [Muscle-up-](https://github.com/jininim/Muscle-up-): 홈 트레이닝 보조 앱 - 머슬없?
-- [Simple-Lotto](https://github.com/jininim/Simple-Lotto): 로또6/45 , 연금복권 당첨번호 추첨앱
-- [weatherhaven](https://github.com/jininim/weatherhaven): 서울시 공공데이터 활용 쉼터&날씨 정보 제공 서비스
-- [ShoppingList](https://github.com/jininim/ShoppingList): 쇼핑 리스트 앱
 
-프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 리포지터리를 방문해주세요 !
+<a href="https://github.com/jininim/KotlinEx">KotlinEx</a>: 안드로이드 개발자 문서 학습 정리<br/>
+
+<a href="https://github.com/jininim/Algorithm_Python">Algorithm_Python</a>: 파이썬 알고리즘 문제 풀이<br/>
+
+  <a href="https://github.com/jininim/Muscle-up-">Muscle-up-</a>: 홈 트레이닝 보조 앱 - 머슬없?<br/>
+  
+  <a href="https://github.com/jininim/Simple-Lotto">Simple-Lotto</a>: 로또6/45, 연금복권 당첨번호 추첨앱<br/>
+  
+  <a href="https://github.com/jininim/weatherhaven">weatherhaven</a>: 서울시 공공데이터 활용 쉼터&날씨 정보 제공 서비스<br/>
+  
+  <a href="https://github.com/jininim/ShoppingList">ShoppingList</a>: 쇼핑 리스트 앱<br/>
+  
+
+프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 리포지터리를 방문해주세요!
 
 ## ✉️ Contact
 
-- 이메일: leejin991106@naver.com
+<p align="center">
+  이메일: leejin991106@naver.com
+</p>
 
 
 
