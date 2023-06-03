@@ -35,7 +35,6 @@
 ## ✉️ 연락하기
 
 - 이메일: leejin991106@naver.com
-- 블로그: https://jininim.tistory.com/
 
 
 
