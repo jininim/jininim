@@ -30,6 +30,9 @@
   <a href="https://github.com/jininim/weatherhaven">weatherhaven</a>: 서울시 공공데이터 활용 쉼터&날씨 정보 제공 서비스<br/>
   
   <a href="https://github.com/jininim/ShoppingList">ShoppingList</a>: 쇼핑 리스트 앱<br/>
+
+  <a href="https://github.com/jininim/FlutterChallenge_NomardCoders">FlutterChallenge_NomardCoders
+s(WebtoonApp)</a>:플러터 프로젝트<br/>
   
 
 프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 리포지터리를 방문해주세요!
