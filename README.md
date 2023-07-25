@@ -32,7 +32,7 @@
   <a href="https://github.com/jininim/ShoppingList">ShoppingList</a>: 쇼핑 리스트 앱<br/>
 
   <a href="https://github.com/jininim/FlutterChallenge_NomardCoders">FlutterChallenge_NomardCoders
-s(WebtoonApp)</a>:플러터 프로젝트<br/>
+s(WebtoonApp)</a>:플러터 웹툰 앱<br/>
   
 
 프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 리포지터리를 방문해주세요!
