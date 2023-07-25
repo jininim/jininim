@@ -21,6 +21,9 @@
 
 <a href="https://github.com/jininim/KotlinEx">KotlinEx</a>: 안드로이드 개발자 문서 학습 정리<br/>
 
+  <a href="https://github.com/jininim/FlutterChallenge_NomardCoders">FlutterChallenge_NomardCoders
+s(WebtoonApp)</a>:플러터 웹툰 앱<br/>
+
 <a href="https://github.com/jininim/Algorithm_Python">Algorithm_Python</a>: 파이썬 알고리즘 문제 풀이<br/>
 
   <a href="https://github.com/jininim/Muscle-up-">Muscle-up-</a>: 홈 트레이닝 보조 앱 - 머슬없?<br/>
@@ -31,8 +34,7 @@
   
   <a href="https://github.com/jininim/ShoppingList">ShoppingList</a>: 쇼핑 리스트 앱<br/>
 
-  <a href="https://github.com/jininim/FlutterChallenge_NomardCoders">FlutterChallenge_NomardCoders
-s(WebtoonApp)</a>:플러터 웹툰 앱<br/>
+
   
 
 프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 리포지터리를 방문해주세요!
