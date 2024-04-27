@@ -28,7 +28,9 @@ s(WebtoonApp)</a>:플러터 웹툰 앱<br/>
 
   <a href="https://github.com/jininim/Muscle-up-">Muscle-up-</a>: 홈 트레이닝 보조 앱 - 머슬없?<br/>
   
-  <a href="https://github.com/jininim/Simple-Lotto">Simple-Lotto</a>: 로또6/45, 연금복권 당첨번호 추첨앱<br/>
+  <a href="https://github.com/jininim/Simple-Lotto">Simple-Lotto</a>: 로또6/45, 연금복권 당첨번호 추첨앱<br/> 
+  
+  <a href="https://github.com/jininim/Simple_Lotto_Compose">Simple-Lotto-compose</a>: 로또6/45, 연금복권 당첨번호 추첨앱 Compose 마이그레이션<br/>   
   
   <a href="https://github.com/jininim/weatherhaven">weatherhaven</a>: 서울시 공공데이터 활용 쉼터&날씨 정보 제공 서비스<br/>
   
