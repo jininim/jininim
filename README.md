@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/-Jetpack-blue" alt="Jetpack" />
 <img src="https://img.shields.io/badge/-Coroutine-blueviolet" alt="Coroutine" />
 <img src="https://img.shields.io/badge/-Retrofit-green" alt="Retrofit" />
-<img src="https://img.shields.io/badge/-SQLite-lightgray" alt="SQLite" />
   <img src="https://img.shields.io/badge/-Room-yellow" alt="Room" />
 </p>
 
