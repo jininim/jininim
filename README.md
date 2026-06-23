@@ -18,7 +18,7 @@
 ## 📌 Projects
 
 
-<a href="https://github.com/jininim/KotlinEx">KotlinEx</a>: 안드로이드 개발자 문서 학습 정리<br/>
+<!-- <a href="https://github.com/jininim/KotlinEx">KotlinEx</a>: 안드로이드 개발자 문서 학습 정리<br/>
 
 <a href="https://github.com/jininim/Android_ComposeStudy">Compose Ex</a>: 안드로이드 컴포즈 개발자 문서 학습 정리<br/>
 
@@ -36,12 +36,12 @@ s(WebtoonApp)</a>:플러터 웹툰 앱<br/>
   
   <a href="https://github.com/jininim/weatherhaven">weatherhaven</a>: 서울시 공공데이터 활용 쉼터&날씨 정보 제공 서비스<br/>
   
-  <a href="https://github.com/jininim/ShoppingList">ShoppingList</a>: 쇼핑 리스트 앱<br/>
+  <a href="https://github.com/jininim/ShoppingList">ShoppingList</a>: 쇼핑 리스트 앱<br/> -->
 
 
   
 
-프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 리포지터리를 방문해주세요!
+프로젝트에 대한 더 자세한 내용은 해당 프로젝트의 레포지터리를 방문해주세요!
 
 ## ✉️ Contact
 
